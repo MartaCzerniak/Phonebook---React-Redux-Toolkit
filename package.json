@@ -1,8 +1,8 @@
 {
-  "name": "Phonebook-React",
+  "name": "phonebook-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://martaczerniak.github.io/Phonebook---React-Redux-Toolkit/",
+  "homepage": "hhttps://martaczerniak.github.io/Phonebook--React-Redux-Toolkit-API/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
