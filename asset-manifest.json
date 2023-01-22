@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Phonebook---React-Redux-Toolkit/static/css/main.ed07a600.css",
+    "main.js": "/Phonebook---React-Redux-Toolkit/static/js/main.fda5a832.js",
+    "static/js/787.88de19ce.chunk.js": "/Phonebook---React-Redux-Toolkit/static/js/787.88de19ce.chunk.js",
+    "index.html": "/Phonebook---React-Redux-Toolkit/index.html",
+    "main.ed07a600.css.map": "/Phonebook---React-Redux-Toolkit/static/css/main.ed07a600.css.map",
+    "main.fda5a832.js.map": "/Phonebook---React-Redux-Toolkit/static/js/main.fda5a832.js.map",
+    "787.88de19ce.chunk.js.map": "/Phonebook---React-Redux-Toolkit/static/js/787.88de19ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed07a600.css",
+    "static/js/main.fda5a832.js"
+  ]
+}
