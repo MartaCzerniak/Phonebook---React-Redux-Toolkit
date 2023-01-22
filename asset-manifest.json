@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Phonebook---React-Redux-Toolkit/static/css/main.ed07a600.css",
-    "main.js": "/Phonebook---React-Redux-Toolkit/static/js/main.fda5a832.js",
-    "static/js/787.88de19ce.chunk.js": "/Phonebook---React-Redux-Toolkit/static/js/787.88de19ce.chunk.js",
-    "index.html": "/Phonebook---React-Redux-Toolkit/index.html",
-    "main.ed07a600.css.map": "/Phonebook---React-Redux-Toolkit/static/css/main.ed07a600.css.map",
-    "main.fda5a832.js.map": "/Phonebook---React-Redux-Toolkit/static/js/main.fda5a832.js.map",
-    "787.88de19ce.chunk.js.map": "/Phonebook---React-Redux-Toolkit/static/js/787.88de19ce.chunk.js.map"
+    "main.css": "/Phonebook--React-Redux-Toolkit-API/static/css/main.ed07a600.css",
+    "main.js": "/Phonebook--React-Redux-Toolkit-API/static/js/main.c45c8291.js",
+    "static/js/787.e8b4e084.chunk.js": "/Phonebook--React-Redux-Toolkit-API/static/js/787.e8b4e084.chunk.js",
+    "index.html": "/Phonebook--React-Redux-Toolkit-API/index.html",
+    "main.ed07a600.css.map": "/Phonebook--React-Redux-Toolkit-API/static/css/main.ed07a600.css.map",
+    "main.c45c8291.js.map": "/Phonebook--React-Redux-Toolkit-API/static/js/main.c45c8291.js.map",
+    "787.e8b4e084.chunk.js.map": "/Phonebook--React-Redux-Toolkit-API/static/js/787.e8b4e084.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed07a600.css",
-    "static/js/main.fda5a832.js"
+    "static/js/main.c45c8291.js"
   ]
 }
